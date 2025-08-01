@@ -3,7 +3,7 @@
 This repository contains a series of practice files created while learning the basics of web development using HTML and CSS.
 
 ## 💻 What’s Included:
-- Tut1.html to Tut43.html: Practice files with different concepts
+- Tut1.html to Tut45.html: Practice files with different concepts
 - Internal CSS usage
 - Basic layouts, elements, and styling
 - Mini practice projects
